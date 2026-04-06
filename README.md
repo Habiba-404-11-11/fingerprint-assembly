@@ -23,8 +23,8 @@ A **hardware-based fingerprint authentication system** using **Arduino** and a f
 
 ---
 
-## 👥 Team Work
-This project was developed as part of a team, with collaboration on hardware setup, coding, and system integration.
+## 👤 Individual Work
+This project was developed individually as part of my data analysis practice to improve my skills in data processing, visualization, and problem-solving.
 
 ---
 
